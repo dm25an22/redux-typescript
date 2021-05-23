@@ -1,0 +1,5 @@
+export enum UserActionType {
+  SUCCESS_FETCH = "SUCCESS_FETCH",
+  FETCH_USERS = "FETCH_USERS",
+  FETCH_USERS_ERROR = "FETCH_USERS_ERROR",
+};
